@@ -1,5 +1,5 @@
-const minDelay = 250;
-const maxDelay = 95;
+const minDelay = 60;
+const maxDelay = 60;
 
 
 
